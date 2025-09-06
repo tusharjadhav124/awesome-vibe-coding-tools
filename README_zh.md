@@ -28,6 +28,7 @@
 - **[通义灵码](https://tongyi.aliyun.com/lingma):** 阿里巴巴的旗舰代码助手，支持中英文、主要 IDE 和独立运行。
 - **[Augment Code](https://augmentcode.com/):** 20万+ 上下文令牌，针对大型企业仓库和法规遵从性进行优化，支持 SOC2 级部署。
 - **[百度 Comate](https://comate.baidu.com/):** 多语言支持，50% 真实采用率，支持所有主要 IDE 和插件，端到端开发自动化。
+- **[Qoder](https://qoder.ai/):** 智能代码生成和编程助手，支持多种编程语言，提供代码补全、错误检测和智能重构功能。
 - **[Crystal (Claude Code Manager)](https://claude.ai/code):** 多会话智能体管理器，Git 工作树集成，差异/合并查看器。非常适合多解决方案原型开发。
 - **[Void](https://voideditor.com/):** 开源 Cursor 替代品，检查点可视化，支持任何模型/本地托管的智能体 AI，注重企业隐私。
 - **[IntelliJ IDEA AI](https://www.jetbrains.com/idea/):** 企业级主流 Java IDE，原生 AI 补全，大型项目代码导航。

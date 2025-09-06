@@ -28,6 +28,7 @@
 - **[Lingma (Tongyi Lingma)](https://tongyi.aliyun.com/lingma):** Alibaba's flagship code assistant, supports Chinese/English, major IDEs and standalone operation.
 - **[Augment Code](https://augmentcode.com/):** 200K+ context tokens, optimized for large enterprise repos and regulatory compliance, with SOC2-ready deployment.
 - **[Comate (Baidu)](https://comate.baidu.com/):** Multi-lingual, 50% real adoption, supports all major IDEs and plugins, end-to-end developer automation.
+- **[Qoder](https://qoder.ai/):** Intelligent code generation and programming assistant with support for multiple programming languages, offering code completion, error detection, and smart refactoring capabilities.
 - **[Crystal (Claude Code Manager)](https://github.com/stravu/crystal):** Multi-session agent manager, Git worktree integration, Diff/merge viewer. Perfect for multi-solution prototyping.
 - **[Void](https://voideditor.com/):** Open-source Cursor alternative, checkpoint visualization, agentic AI with any model/local hosting, privacy-focused for enterprise use.
 - **[IntelliJ IDEA AI](https://www.jetbrains.com/idea/):** Enterprise mainstream Java IDE with native AI completion, code navigation for massive projects.
