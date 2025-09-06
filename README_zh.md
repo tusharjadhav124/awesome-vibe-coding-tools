@@ -31,7 +31,6 @@
 - **[Crystal (Claude Code Manager)](https://claude.ai/code):** 多会话智能体管理器，Git 工作树集成，差异/合并查看器。非常适合多解决方案原型开发。
 - **[Void](https://voideditor.com/):** 开源 Cursor 替代品，检查点可视化，支持任何模型/本地托管的智能体 AI，注重企业隐私。
 - **[IntelliJ IDEA AI](https://www.jetbrains.com/idea/):** 企业级主流 Java IDE，原生 AI 补全，大型项目代码导航。
-- **[CodeSandbox](https://codesandbox.io/):** 云原生 AI IDE，在远程协作和前端开发方面表现出色。
 
 ## 💻 终端 AI 编程助手
 
@@ -42,10 +41,10 @@
 - **[OpenCode](https://github.com/opencodeinterpret/opencode):** 原生终端智能体，支持 LSP 和数十种 LLM。适合多语言项目和多模型集成。
 - **[Warp](https://www.warp.dev/):** AI 驱动的终端，自然语言命令和智能自动补全。
 - **[Codex CLI](https://openai.com/index/openai-codex/):** OpenAI 官方工具，轻量快速的终端代码生成。
-- **[Crush](https://github.com/charmbracelet/mods):** Charmbracelet 的智能体，多模型和 LSP，高度可定制的终端编码。
-- **[Cursor CLI](https://cursor.com/):** 与 Cursor IDE 共享上下文，支持高级实时代码审查、编写和智能体指导。
-- **[Groq Code CLI](https://groq.com/):** 可扩展插件框架，CLI 工作流自动化，完全可定制。
-- **[Amp](https://github.com/amp-dev/amp):** 自主推理和编辑，适合终端中的多模型和智能体代码任务。
+- **[Crush](https://github.com/charmbracelet/crush):** Charmbracelet 的智能体，多模型和 LSP，高度可定制的终端编码。
+- **[Cursor CLI](https://cursor.com/en/cli):** 与 Cursor IDE 共享上下文，支持高级实时代码审查、编写和智能体指导。
+- **[Groq Code CLI](https://github.com/build-with-groq/groq-code-cli):** 可扩展插件框架，CLI 工作流自动化，完全可定制。
+- **[Amp](https://ampcode.com/):** 自主推理和编辑，适合终端中的多模型和智能体代码任务。
 - **[iflow CLI](https://github.com/iflow-ai/iflow-cli):** 智能工作流自动化CLI工具，为开发者提供AI驱动的任务编排和终端中的简化开发流程。
 - **[Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder):** 阿里云开发的先进编程模型，支持多种编程语言，具备强大的代码理解、生成和调试能力。提供针对各种编程任务的微调模型，在代码基准测试中表现出色。
 - **[Auggie](https://augmentcode.com/cli):** Augment Code 的命令行版本，将企业级AI编程辅助带到终端，具有大上下文窗口和法规遵从性功能。
@@ -57,7 +56,7 @@
 - **[Continue](https://github.com/continuedev/continue):** 开源 GPT/Claude/Gemini 集成，内联代码聊天，文件/项目上下文支持，API/模型选择。
 - **[RooCode](https://github.com/RooCodeInc/Roo-Code):** 智能体团队允许并发多模型自动化，高级 API 支持。
 - **[KiloCode](https://github.com/Kilo-Org/kilocode):** Roo/Cline 超集，编排器模式和错误恢复，基于积分的系统，高级多智能体权限。
-- **[Sourcegraph Cody](https://sourcegraph.com/cody):** 多仓库代码搜索，解释，自定义样式提示，支持多个主要 LLM。
+- **[Cody (Sourcegraph)](https://sourcegraph.com/cody):** 多仓库代码搜索，解释，自定义样式提示，支持多个主要 LLM。
 - **[CodeGPT](https://codegpt.co/):** 编辑器内聊天/AI 调试，解释，代码/测试/文档生成，支持 OpenAI/Anthropic。
 - **[Graphite](https://graphite.dev/):** 堆叠 PR 工作流，即时 AI 代码审查评论，侧边栏分支管理。
 - **[Tabnine](https://www.tabnine.com/):** 本地部署，适应个人编码风格，适合隐私/安全优先的团队。
@@ -76,7 +75,7 @@
 
 ## 🏢 企业级解决方案
 
-- **[OpenAI Codex](https://openai.com/codex/):** 云智能体，CLI，私有部署，具备审计/安全选项的综合代码生成。
+- **[Codex (OpenAI)](https://openai.com/codex/):** 云智能体，CLI，私有部署，具备审计/安全选项的综合代码生成。
 - **[Devin (Cognition)](https://devin.ai/):** 团队级自主软件工程师，端到端自动化。
 - **[Replit](https://replit.com/):** 多智能体工作空间，自然语言生成，多用户协作。
 - **[Jules (Google)](https://jules.google/):** 自动化拉取请求，CI/CD 和代码修复集成。
