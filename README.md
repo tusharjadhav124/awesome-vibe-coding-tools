@@ -26,7 +26,6 @@
 - **[Trae](https://trae.ai/):** ByteDance automated builder, syncs Figma design to code, and specializes in low-code prototyping for small teams.
 - **[Zed](https://zed.dev/):** Rust-powered superfast editor with 120fps rendering, native AI suggestions, and robust collaboration for frontend professionals.
 - **[Lingma (Tongyi Lingma)](https://tongyi.aliyun.com/lingma):** Alibaba's flagship code assistant, supports Chinese/English, major IDEs and standalone operation.
-- **[Augment Code](https://augmentcode.com/):** 200K+ context tokens, optimized for large enterprise repos and regulatory compliance, with SOC2-ready deployment.
 - **[Comate (Baidu)](https://comate.baidu.com/):** Multi-lingual, 50% real adoption, supports all major IDEs and plugins, end-to-end developer automation.
 - **[Qoder](https://qoder.ai/):** Intelligent code generation and programming assistant with support for multiple programming languages, offering code completion, error detection, and smart refactoring capabilities.
 - **[Crystal (Claude Code Manager)](https://github.com/stravu/crystal):** Multi-session agent manager, Git worktree integration, Diff/merge viewer. Perfect for multi-solution prototyping.
@@ -47,7 +46,10 @@
 - **[Cursor CLI](https://cursor.com/en/cli):** Shares context with Cursor IDE, supports advanced real-time code reviews, writing, and agentic guidance.
 - **[Groq Code CLI](https://github.com/build-with-groq/groq-code-cli):** Extensible plugin framework for workflow automation in CLI, fully customizable.
 - **[Amp](https://ampcode.com/):** Autonomous reasoning and editing, ideal for multi-model and agentic code tasks in the terminal.
-- **[Qwen Code](https://qwen3coder.org/):** Alibaba open-source, optimized for Qwen3-Coder, auto-pipeline for CI/CD and workflow automation.
+- **[iflow CLI](https://github.com/iflow-ai/iflow-cli):** Intelligent workflow automation CLI tool for developers, providing AI-powered task orchestration and streamlined development processes in the terminal.
+- **[Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder):** Advanced coding model from Alibaba Cloud, supporting multiple programming languages with strong code understanding, generation, and debugging capabilities. Features fine-tuned models for various coding tasks and excellent performance on code benchmarks.
+- **[Auggie](https://augmentcode.com/cli):** Command-line version of Augment Code, bringing enterprise-grade AI coding assistance to the terminal with large context windows and regulatory compliance features.
+
 
 
 ## 🔌 VS Code Extensions
@@ -56,7 +58,6 @@
 - **[Cline](https://github.com/cline/cline):** Autonomous AI agent with file/web editing, fully open-source and extensible, supports CLI mode.
 - **[Continue](https://github.com/continuedev/continue):** Open-source GPT/Claude/Gemini integration, inline code chat, file/project contextual support, API/model choice.
 - **[RooCode](https://github.com/RooCodeInc/Roo-Code):** Agent teams allow concurrent multi-model automation, premium API support.
-- **[CoolCline](https://github.com/coolcline/CoolCline):** Enhanced Cline fork with CLI/workflow automation scripts.
 - **[KiloCode](https://github.com/Kilo-Org/kilocode):** Roo/Cline superset, orchestrator mode and error recovery, credit-based system, advanced multi-agent permissions.
 - **[Cody (Sourcegraph)](https://sourcegraph.com/cody):** Multi-repo code search, explanation, custom style prompts, supports several major LLMs.
 - **[CodeGPT](https://codegpt.co/):** In-editor chat/AI debugging, explanations, code/test/doc generation, supports OpenAI/Anthropic.
@@ -64,6 +65,7 @@
 - **[Tabnine](https://www.tabnine.com/):** Local deployment, adaptive to personal coding style, ideal for privacy/security-first teams.
 - **[Gemini Code Assist](https://codeassist.google/):** Deep Google/Colab integration for real-time code support.
 - **[ChatGPT for VS Code](https://marketplace.visualstudio.com/items?itemName=openai.chatgpt):** Direct OpenAI chat integration, supports debugging/testing/doc generation.
+- **[Augment Code](https://augmentcode.com/):** 200K+ context tokens, optimized for large enterprise repos and regulatory compliance, with SOC2-ready deployment.
 
 
 ## 🌐 Web-Based Development Platforms
@@ -91,7 +93,6 @@
 ## 🔧 Specialized Tools
 
 - **[RepoPrompt](https://github.com/repo-prompt/repo-prompt):** Mac-native AI file/code management and iteration, perfect for version organization.
-- **[Polycoder](https://github.com/VHellendoorn/Code-LMs):** Open-source Codex alternative, multi-language codegen, suits education/rnd.
 - **[DeepCode (Snyk)](https://snyk.io/product/deepcode-ai/):** AI fast code security analysis and actionable fix recommendations.
 - **[Umami](https://umami.is/):** AI-driven frontend optimization/performance analytics.
 - **[TraceRoot AI](https://traceroot.ai/):** Bug location & patch suggestion, automatic root cause.
